@@ -1,4 +1,4 @@
-node() {
+node('Ubuntu') {
 
     def repoURL = 'https://github.com/gabrielstar/cucumber.git'
 
